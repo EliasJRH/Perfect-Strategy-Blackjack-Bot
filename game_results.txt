@@ -1,0 +1,972 @@
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 105 
+  Set win percentage: 52.5 
+  Average payout: 1192.95 
+  Best payout: 5240.0 
+  Worst loss: -1625.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 52 
+  Set win percentage: 26.0 
+  Average payout: 509.725 
+  Best payout: 4940.0 
+  Worst loss: -3965.0
+Player 3 (Only perfect strategy): 
+  Sets won: 95 
+  Set win percentage: 47.5 
+  Average payout: 982.445 
+  Best payout: 1549.5 
+  Worst loss: 396.5
+Player 4 (No strategies used): 
+  Sets won: 16 
+  Set win percentage: 8.0 
+  Average payout: 759.7925 
+  Best payout: 1223.5 
+  Worst loss: 200.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 87 
+  Set win percentage: 43.5 
+  Average payout: 939.475 
+  Best payout: 4715.0 
+  Worst loss: -3955.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 57 
+  Set win percentage: 28.499999999999996 
+  Average payout: 341.95 
+  Best payout: 4000.0 
+  Worst loss: -3030.0
+Player 3 (Only perfect strategy): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 969.2075 
+  Best payout: 1671.5 
+  Worst loss: 336.5
+Player 4 (No strategies used): 
+  Sets won: 14 
+  Set win percentage: 7.000000000000001 
+  Average payout: 718.5525 
+  Best payout: 1334.0 
+  Worst loss: 239
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 100 
+  Set win percentage: 50.0 
+  Average payout: 1044.125 
+  Best payout: 5985.0 
+  Worst loss: -2125.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 57 
+  Set win percentage: 28.499999999999996 
+  Average payout: 504.775 
+  Best payout: 5190.0 
+  Worst loss: -3110.0
+Player 3 (Only perfect strategy): 
+  Sets won: 90 
+  Set win percentage: 45.0 
+  Average payout: 965.4125 
+  Best payout: 1587.5 
+  Worst loss: 284.5
+Player 4 (No strategies used): 
+  Sets won: 13 
+  Set win percentage: 6.5 
+  Average payout: 725.365 
+  Best payout: 1224.5 
+  Worst loss: 158.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 95 
+  Set win percentage: 47.5 
+  Average payout: 948.25 
+  Best payout: 5145.0 
+  Worst loss: -1870.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 47 
+  Set win percentage: 23.5 
+  Average payout: 388.725 
+  Best payout: 2845.0 
+  Worst loss: -2635.0
+Player 3 (Only perfect strategy): 
+  Sets won: 80 
+  Set win percentage: 40.0 
+  Average payout: 951.94 
+  Best payout: 1581.5 
+  Worst loss: 410.0
+Player 4 (No strategies used): 
+  Sets won: 11 
+  Set win percentage: 5.5 
+  Average payout: 718.6275 
+  Best payout: 1285.0 
+  Worst loss: 201.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 1005.525 
+  Best payout: 4815.0 
+  Worst loss: -3190.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 54 
+  Set win percentage: 27.0 
+  Average payout: 370.425 
+  Best payout: 3030.0 
+  Worst loss: -5060.0
+Player 3 (Only perfect strategy): 
+  Sets won: 87 
+  Set win percentage: 43.5 
+  Average payout: 957.9725 
+  Best payout: 1518.5 
+  Worst loss: 260.0
+Player 4 (No strategies used): 
+  Sets won: 17 
+  Set win percentage: 8.5 
+  Average payout: 732.51 
+  Best payout: 1153 
+  Worst loss: 185.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 98 
+  Set win percentage: 49.0 
+  Average payout: 1046.475 
+  Best payout: 7950.0 
+  Worst loss: -2035.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 56 
+  Set win percentage: 28.000000000000004 
+  Average payout: 446.275 
+  Best payout: 2805.0 
+  Worst loss: -2590.0
+Player 3 (Only perfect strategy): 
+  Sets won: 88 
+  Set win percentage: 44.0 
+  Average payout: 963.31 
+  Best payout: 1716.0 
+  Worst loss: 274.0
+Player 4 (No strategies used): 
+  Sets won: 32 
+  Set win percentage: 16.0 
+  Average payout: 751.7625 
+  Best payout: 1322.5 
+  Worst loss: 205.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 101 
+  Set win percentage: 50.5 
+  Average payout: 999.525 
+  Best payout: 3100.0 
+  Worst loss: -2990.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 48 
+  Set win percentage: 24.0 
+  Average payout: 291.1 
+  Best payout: 4080.0 
+  Worst loss: -4085.0
+Player 3 (Only perfect strategy): 
+  Sets won: 88 
+  Set win percentage: 44.0 
+  Average payout: 961.3525 
+  Best payout: 1614.0 
+  Worst loss: 212.0
+Player 4 (No strategies used): 
+  Sets won: 20 
+  Set win percentage: 10.0 
+  Average payout: 747.0475 
+  Best payout: 1160.5 
+  Worst loss: 210.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 95 
+  Set win percentage: 47.5 
+  Average payout: 992.35 
+  Best payout: 5890.0 
+  Worst loss: -2625.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 64 
+  Set win percentage: 32.0 
+  Average payout: 463.175 
+  Best payout: 3855.0 
+  Worst loss: -4080.0
+Player 3 (Only perfect strategy): 
+  Sets won: 83 
+  Set win percentage: 41.5 
+  Average payout: 967.3625 
+  Best payout: 1639.5 
+  Worst loss: 326.5
+Player 4 (No strategies used): 
+  Sets won: 15 
+  Set win percentage: 7.5 
+  Average payout: 748.5775 
+  Best payout: 1243.0 
+  Worst loss: 219.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 92 
+  Set win percentage: 46.0 
+  Average payout: 860.725 
+  Best payout: 5520.0 
+  Worst loss: -3560.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 49 
+  Set win percentage: 24.5 
+  Average payout: 292.425 
+  Best payout: 4260.0 
+  Worst loss: -3895.0
+Player 3 (Only perfect strategy): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 966.24 
+  Best payout: 1655.0 
+  Worst loss: 296.0
+Player 4 (No strategies used): 
+  Sets won: 20 
+  Set win percentage: 10.0 
+  Average payout: 749.75 
+  Best payout: 1296.0 
+  Worst loss: 324
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 101 
+  Set win percentage: 50.5 
+  Average payout: 951.15 
+  Best payout: 8270.0 
+  Worst loss: -2735.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 46 
+  Set win percentage: 23.0 
+  Average payout: 414.8 
+  Best payout: 4335.0 
+  Worst loss: -3770.0
+Player 3 (Only perfect strategy): 
+  Sets won: 100 
+  Set win percentage: 50.0 
+  Average payout: 994.87 
+  Best payout: 1539.0 
+  Worst loss: 311.5
+Player 4 (No strategies used): 
+  Sets won: 22 
+  Set win percentage: 11.0 
+  Average payout: 740.95 
+  Best payout: 1345.5 
+  Worst loss: 182.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 96 
+  Set win percentage: 48.0 
+  Average payout: 1006.65 
+  Best payout: 4770.0 
+  Worst loss: -2460.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 57 
+  Set win percentage: 28.499999999999996 
+  Average payout: 422.95 
+  Best payout: 3835.0 
+  Worst loss: -3610
+Player 3 (Only perfect strategy): 
+  Sets won: 109 
+  Set win percentage: 54.50000000000001 
+  Average payout: 1022.7575 
+  Best payout: 1649.5 
+  Worst loss: 329.5
+Player 4 (No strategies used): 
+  Sets won: 17 
+  Set win percentage: 8.5 
+  Average payout: 733.4325 
+  Best payout: 1182.5 
+  Worst loss: 270.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 111 
+  Set win percentage: 55.50000000000001 
+  Average payout: 1129.575 
+  Best payout: 4665.0 
+  Worst loss: -2305.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 53 
+  Set win percentage: 26.5 
+  Average payout: 379.925 
+  Best payout: 4210.0 
+  Worst loss: -3035.0
+Player 3 (Only perfect strategy): 
+  Sets won: 99 
+  Set win percentage: 49.5 
+  Average payout: 968.6875 
+  Best payout: 1648.5 
+  Worst loss: 324.5
+Player 4 (No strategies used): 
+  Sets won: 15 
+  Set win percentage: 7.5 
+  Average payout: 734.165 
+  Best payout: 1370 
+  Worst loss: 174.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 110 
+  Set win percentage: 55.00000000000001 
+  Average payout: 1015.225 
+  Best payout: 6940.0 
+  Worst loss: -3545.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 45 
+  Set win percentage: 22.5 
+  Average payout: 338.55 
+  Best payout: 3640.0 
+  Worst loss: -3720.0
+Player 3 (Only perfect strategy): 
+  Sets won: 97 
+  Set win percentage: 48.5 
+  Average payout: 993.43 
+  Best payout: 1769.0 
+  Worst loss: 414.0
+Player 4 (No strategies used): 
+  Sets won: 18 
+  Set win percentage: 9.0 
+  Average payout: 731.3625 
+  Best payout: 1357.0 
+  Worst loss: 165.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 98 
+  Set win percentage: 49.0 
+  Average payout: 1007.425 
+  Best payout: 5230.0 
+  Worst loss: -4070.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 46 
+  Set win percentage: 23.0 
+  Average payout: 445.2 
+  Best payout: 2650.0 
+  Worst loss: -3155.0
+Player 3 (Only perfect strategy): 
+  Sets won: 80 
+  Set win percentage: 40.0 
+  Average payout: 963.7075 
+  Best payout: 1541.5 
+  Worst loss: 248.5
+Player 4 (No strategies used): 
+  Sets won: 19 
+  Set win percentage: 9.5 
+  Average payout: 703.45 
+  Best payout: 1218.0 
+  Worst loss: 255.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 99 
+  Set win percentage: 49.5 
+  Average payout: 1006.55 
+  Best payout: 6445.0 
+  Worst loss: -2190.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 44 
+  Set win percentage: 22.0 
+  Average payout: 387.35 
+  Best payout: 3290.0 
+  Worst loss: -2580
+Player 3 (Only perfect strategy): 
+  Sets won: 91 
+  Set win percentage: 45.5 
+  Average payout: 975.9975 
+  Best payout: 1654.5 
+  Worst loss: 280.5
+Player 4 (No strategies used): 
+  Sets won: 15 
+  Set win percentage: 7.5 
+  Average payout: 759.06 
+  Best payout: 1436.5 
+  Worst loss: 351.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 878.175 
+  Best payout: 6385.0 
+  Worst loss: -3445.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 52 
+  Set win percentage: 26.0 
+  Average payout: 392.425 
+  Best payout: 3770.0 
+  Worst loss: -4195.0
+Player 3 (Only perfect strategy): 
+  Sets won: 90 
+  Set win percentage: 45.0 
+  Average payout: 953.905 
+  Best payout: 1526.5 
+  Worst loss: 195.5
+Player 4 (No strategies used): 
+  Sets won: 11 
+  Set win percentage: 5.5 
+  Average payout: 727.7275 
+  Best payout: 1313.0 
+  Worst loss: 75.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 879.375 
+  Best payout: 4830.0 
+  Worst loss: -2765.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 50 
+  Set win percentage: 25.0 
+  Average payout: 417.725 
+  Best payout: 3480.0 
+  Worst loss: -3760.0
+Player 3 (Only perfect strategy): 
+  Sets won: 99 
+  Set win percentage: 49.5 
+  Average payout: 993.3475 
+  Best payout: 1643.0 
+  Worst loss: 246.5
+Player 4 (No strategies used): 
+  Sets won: 14 
+  Set win percentage: 7.000000000000001 
+  Average payout: 715.32 
+  Best payout: 1209.0 
+  Worst loss: 128.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 103 
+  Set win percentage: 51.5 
+  Average payout: 1067.675 
+  Best payout: 4910.0 
+  Worst loss: -3410.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 54 
+  Set win percentage: 27.0 
+  Average payout: 429.75 
+  Best payout: 2530.0 
+  Worst loss: -3670.0
+Player 3 (Only perfect strategy): 
+  Sets won: 80 
+  Set win percentage: 40.0 
+  Average payout: 964.545 
+  Best payout: 1770.0 
+  Worst loss: 383.5
+Player 4 (No strategies used): 
+  Sets won: 19 
+  Set win percentage: 9.5 
+  Average payout: 742.465 
+  Best payout: 1208 
+  Worst loss: 164
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 116 
+  Set win percentage: 57.99999999999999 
+  Average payout: 1260.85 
+  Best payout: 5150.0 
+  Worst loss: -2875.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 58 
+  Set win percentage: 28.999999999999996 
+  Average payout: 562.025 
+  Best payout: 3415.0 
+  Worst loss: -2905.0
+Player 3 (Only perfect strategy): 
+  Sets won: 103 
+  Set win percentage: 51.5 
+  Average payout: 1009.38 
+  Best payout: 1679.5 
+  Worst loss: 317.0
+Player 4 (No strategies used): 
+  Sets won: 27 
+  Set win percentage: 13.5 
+  Average payout: 750.5925 
+  Best payout: 1242.0 
+  Worst loss: 188.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 90 
+  Set win percentage: 45.0 
+  Average payout: 940.7 
+  Best payout: 4010.0 
+  Worst loss: -3355.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 59 
+  Set win percentage: 29.5 
+  Average payout: 496.925 
+  Best payout: 3085.0 
+  Worst loss: -2725.0
+Player 3 (Only perfect strategy): 
+  Sets won: 118 
+  Set win percentage: 59.0 
+  Average payout: 1014.1525 
+  Best payout: 1650.0 
+  Worst loss: 392.0
+Player 4 (No strategies used): 
+  Sets won: 19 
+  Set win percentage: 9.5 
+  Average payout: 734.3175 
+  Best payout: 1254.0 
+  Worst loss: 179.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 104 
+  Set win percentage: 52.0 
+  Average payout: 1162.625 
+  Best payout: 8755.0 
+  Worst loss: -3325.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 53 
+  Set win percentage: 26.5 
+  Average payout: 328.025 
+  Best payout: 2545.0 
+  Worst loss: -3770
+Player 3 (Only perfect strategy): 
+  Sets won: 81 
+  Set win percentage: 40.5 
+  Average payout: 964.8725 
+  Best payout: 1778.5 
+  Worst loss: 276.5
+Player 4 (No strategies used): 
+  Sets won: 25 
+  Set win percentage: 12.5 
+  Average payout: 740.3675 
+  Best payout: 1279.5 
+  Worst loss: 140
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 92 
+  Set win percentage: 46.0 
+  Average payout: 945.6 
+  Best payout: 4490.0 
+  Worst loss: -1990.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 43 
+  Set win percentage: 21.5 
+  Average payout: 259.05 
+  Best payout: 2915.0 
+  Worst loss: -5355.0
+Player 3 (Only perfect strategy): 
+  Sets won: 92 
+  Set win percentage: 46.0 
+  Average payout: 967.605 
+  Best payout: 1794.5 
+  Worst loss: 289.0
+Player 4 (No strategies used): 
+  Sets won: 17 
+  Set win percentage: 8.5 
+  Average payout: 707.81 
+  Best payout: 1281.0 
+  Worst loss: 206.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 104 
+  Set win percentage: 52.0 
+  Average payout: 1127.775 
+  Best payout: 5990.0 
+  Worst loss: -1740.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 57 
+  Set win percentage: 28.499999999999996 
+  Average payout: 424.4 
+  Best payout: 3155.0 
+  Worst loss: -3905.0
+Player 3 (Only perfect strategy): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 961.1475 
+  Best payout: 1583.5 
+  Worst loss: 176.0
+Player 4 (No strategies used): 
+  Sets won: 21 
+  Set win percentage: 10.5 
+  Average payout: 725.2525 
+  Best payout: 1550.0 
+  Worst loss: 101.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 112 
+  Set win percentage: 56.00000000000001 
+  Average payout: 1097.9 
+  Best payout: 4345.0 
+  Worst loss: -2700.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 50 
+  Set win percentage: 25.0 
+  Average payout: 446.825 
+  Best payout: 4100.0 
+  Worst loss: -3975.0
+Player 3 (Only perfect strategy): 
+  Sets won: 100 
+  Set win percentage: 50.0 
+  Average payout: 984.0825 
+  Best payout: 1699.0 
+  Worst loss: 254.5
+Player 4 (No strategies used): 
+  Sets won: 19 
+  Set win percentage: 9.5 
+  Average payout: 729.3 
+  Best payout: 1350.0 
+  Worst loss: 288
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 88 
+  Set win percentage: 44.0 
+  Average payout: 854.85 
+  Best payout: 4675.0 
+  Worst loss: -4260.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 49 
+  Set win percentage: 24.5 
+  Average payout: 419.125 
+  Best payout: 4310 
+  Worst loss: -2335.0
+Player 3 (Only perfect strategy): 
+  Sets won: 86 
+  Set win percentage: 43.0 
+  Average payout: 962.8 
+  Best payout: 1631.0 
+  Worst loss: 285.5
+Player 4 (No strategies used): 
+  Sets won: 14 
+  Set win percentage: 7.000000000000001 
+  Average payout: 719.8825 
+  Best payout: 1338.5 
+  Worst loss: 114.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 92 
+  Set win percentage: 46.0 
+  Average payout: 990.35 
+  Best payout: 11940.0 
+  Worst loss: -2830.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 52 
+  Set win percentage: 26.0 
+  Average payout: 414.075 
+  Best payout: 4550 
+  Worst loss: -2940.0
+Player 3 (Only perfect strategy): 
+  Sets won: 75 
+  Set win percentage: 37.5 
+  Average payout: 945.105 
+  Best payout: 1578.0 
+  Worst loss: 225.5
+Player 4 (No strategies used): 
+  Sets won: 15 
+  Set win percentage: 7.5 
+  Average payout: 728.425 
+  Best payout: 1285.0 
+  Worst loss: 253
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 96 
+  Set win percentage: 48.0 
+  Average payout: 838.275 
+  Best payout: 4935.0 
+  Worst loss: -4085.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 47 
+  Set win percentage: 23.5 
+  Average payout: 366.125 
+  Best payout: 3250.0 
+  Worst loss: -3505.0
+Player 3 (Only perfect strategy): 
+  Sets won: 96 
+  Set win percentage: 48.0 
+  Average payout: 975.2825 
+  Best payout: 1613.5 
+  Worst loss: 283.5
+Player 4 (No strategies used): 
+  Sets won: 16 
+  Set win percentage: 8.0 
+  Average payout: 731.04 
+  Best payout: 1203.5 
+  Worst loss: 201.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 106 
+  Set win percentage: 53.0 
+  Average payout: 1094.625 
+  Best payout: 4560.0 
+  Worst loss: -2420.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 51 
+  Set win percentage: 25.5 
+  Average payout: 419.725 
+  Best payout: 3645.0 
+  Worst loss: -3560
+Player 3 (Only perfect strategy): 
+  Sets won: 86 
+  Set win percentage: 43.0 
+  Average payout: 948.3975 
+  Best payout: 1767.0 
+  Worst loss: 196.0
+Player 4 (No strategies used): 
+  Sets won: 10 
+  Set win percentage: 5.0 
+  Average payout: 696.855 
+  Best payout: 1142.0 
+  Worst loss: 109.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 96 
+  Set win percentage: 48.0 
+  Average payout: 1042.85 
+  Best payout: 5515.0 
+  Worst loss: -1835.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 48 
+  Set win percentage: 24.0 
+  Average payout: 352.425 
+  Best payout: 2745.0 
+  Worst loss: -3605.0
+Player 3 (Only perfect strategy): 
+  Sets won: 90 
+  Set win percentage: 45.0 
+  Average payout: 972.76 
+  Best payout: 1894.5 
+  Worst loss: 343.0
+Player 4 (No strategies used): 
+  Sets won: 23 
+  Set win percentage: 11.5 
+  Average payout: 748.8125 
+  Best payout: 1284.5 
+  Worst loss: 58.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 975.275 
+  Best payout: 3945.0 
+  Worst loss: -2615.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 53 
+  Set win percentage: 26.5 
+  Average payout: 361.825 
+  Best payout: 2900.0 
+  Worst loss: -3800
+Player 3 (Only perfect strategy): 
+  Sets won: 84 
+  Set win percentage: 42.0 
+  Average payout: 962.01 
+  Best payout: 1648.5 
+  Worst loss: 314.0
+Player 4 (No strategies used): 
+  Sets won: 19 
+  Set win percentage: 9.5 
+  Average payout: 726.89 
+  Best payout: 1214 
+  Worst loss: 173
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 93 
+  Set win percentage: 46.5 
+  Average payout: 925.65 
+  Best payout: 4290.0 
+  Worst loss: -5500.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 49 
+  Set win percentage: 24.5 
+  Average payout: 351.95 
+  Best payout: 3035.0 
+  Worst loss: -4085.0
+Player 3 (Only perfect strategy): 
+  Sets won: 97 
+  Set win percentage: 48.5 
+  Average payout: 995.9875 
+  Best payout: 1583.5 
+  Worst loss: 432.5
+Player 4 (No strategies used): 
+  Sets won: 23 
+  Set win percentage: 11.5 
+  Average payout: 747.76 
+  Best payout: 1576.0 
+  Worst loss: 190.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 104 
+  Set win percentage: 52.0 
+  Average payout: 1026.5 
+  Best payout: 4315.0 
+  Worst loss: -1990.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 47 
+  Set win percentage: 23.5 
+  Average payout: 382.125 
+  Best payout: 2790.0 
+  Worst loss: -3235.0
+Player 3 (Only perfect strategy): 
+  Sets won: 106 
+  Set win percentage: 53.0 
+  Average payout: 1007.5825 
+  Best payout: 1593.5 
+  Worst loss: 403.5
+Player 4 (No strategies used): 
+  Sets won: 21 
+  Set win percentage: 10.5 
+  Average payout: 716.855 
+  Best payout: 1183.5 
+  Worst loss: 27.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 103 
+  Set win percentage: 51.5 
+  Average payout: 992.85 
+  Best payout: 4685.0 
+  Worst loss: -2510.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 49 
+  Set win percentage: 24.5 
+  Average payout: 392.275 
+  Best payout: 3360.0 
+  Worst loss: -3705.0
+Player 3 (Only perfect strategy): 
+  Sets won: 87 
+  Set win percentage: 43.5 
+  Average payout: 975.335 
+  Best payout: 1568.5 
+  Worst loss: 305.0
+Player 4 (No strategies used): 
+  Sets won: 13 
+  Set win percentage: 6.5 
+  Average payout: 728.5975 
+  Best payout: 1223.5 
+  Worst loss: 143.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 98 
+  Set win percentage: 49.0 
+  Average payout: 983.65 
+  Best payout: 3750.0 
+  Worst loss: -2300.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 45 
+  Set win percentage: 22.5 
+  Average payout: 401.025 
+  Best payout: 4305.0 
+  Worst loss: -3240
+Player 3 (Only perfect strategy): 
+  Sets won: 94 
+  Set win percentage: 47.0 
+  Average payout: 982.615 
+  Best payout: 1674.5 
+  Worst loss: 422.0
+Player 4 (No strategies used): 
+  Sets won: 17 
+  Set win percentage: 8.5 
+  Average payout: 722.9775 
+  Best payout: 1368.0 
+  Worst loss: 230
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 97 
+  Set win percentage: 48.5 
+  Average payout: 1015.75 
+  Best payout: 4570.0 
+  Worst loss: -2915.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 51 
+  Set win percentage: 25.5 
+  Average payout: 280.4 
+  Best payout: 3535.0 
+  Worst loss: -3640
+Player 3 (Only perfect strategy): 
+  Sets won: 102 
+  Set win percentage: 51.0 
+  Average payout: 1000.295 
+  Best payout: 1673.0 
+  Worst loss: 388.5
+Player 4 (No strategies used): 
+  Sets won: 20 
+  Set win percentage: 10.0 
+  Average payout: 736.67 
+  Best payout: 1301.0 
+  Worst loss: 237.5
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
+/////////////////////------------------\\\\\\\\\\\\\\\\\\\\\ 
+Player 1 (Perfect strategy + Card counting): 
+  Sets won: 91 
+  Set win percentage: 45.5 
+  Average payout: 934.025 
+  Best payout: 4940.0 
+  Worst loss: -2865.0
+  Risk limit: 30%
+Player 2 (Only card counting): 
+  Sets won: 49 
+  Set win percentage: 24.5 
+  Average payout: 407.425 
+  Best payout: 3965.0 
+  Worst loss: -3270
+Player 3 (Only perfect strategy): 
+  Sets won: 82 
+  Set win percentage: 41.0 
+  Average payout: 979.9875 
+  Best payout: 1606.0 
+  Worst loss: 350.5
+Player 4 (No strategies used): 
+  Sets won: 21 
+  Set win percentage: 10.5 
+  Average payout: 740.415 
+  Best payout: 1285.0 
+  Worst loss: 168.0
+\\\\\\\\\\\\\\\\\\\\\------------------/////////////////////
